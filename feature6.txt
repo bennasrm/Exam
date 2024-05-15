@@ -1,4 +1,8 @@
 Ligne 1
-Ligne 2
+Ligne
 Ligne 3
+<<<<<<< HEAD
 Ligne 5
+=======
+Ligne 4
+>>>>>>> Correction
